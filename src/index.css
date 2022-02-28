@@ -217,7 +217,7 @@ h3 {
   }
 }
 
-@media (max-width: 600px) {
+@media (max-width: 767px) {
   .form {
     width: 90%;
   }
