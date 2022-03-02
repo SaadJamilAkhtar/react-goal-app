@@ -11,7 +11,7 @@ function GoalForm(props) {
 
     const onSubmit = (e) => {
         e.preventDefault();
-        dispatch(createGoal(text));
+        dispatch(createGoal({text}));
         setText('');
     }
 
