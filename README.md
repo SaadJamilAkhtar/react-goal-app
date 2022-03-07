@@ -20,5 +20,9 @@ The server will start at port 3000
 ### Note:
     API must be running on local host for application to work since application make all http requests on localhost port 5000
 
-
+## Sample Images:
+![Img](https://github.com/SaadJamilAkhtar/Project-Images/blob/master/goalapp1.png?raw=true)
+![Img](https://github.com/SaadJamilAkhtar/Project-Images/blob/master/goalapp2.png?raw=true)
+![Img](https://github.com/SaadJamilAkhtar/Project-Images/blob/master/goalapp3.png?raw=true)
+![Img](https://github.com/SaadJamilAkhtar/Project-Images/blob/master/goalapp4.png?raw=true)
 
